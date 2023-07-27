@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: vprodb
-        image: 861211676719.dkr.ecr.ap-south-1.amazonaws.com/vprofiledb-cicd:9
+        image: 861211676719.dkr.ecr.ap-south-1.amazonaws.com/vprofiledb-cicd:latest
         args:
           - "--ignore-db-dir=lost+found"
         volumeMounts:
