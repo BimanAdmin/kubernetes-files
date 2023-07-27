@@ -8,7 +8,7 @@ spec:
   selector:
     matchLabels:
       app: vprodb
-  replicas: 2
+  replicas: 1
   template:
     metadata:
       labels:
@@ -32,7 +32,7 @@ spec:
                name: app-secret
                key: db-pass
       nodeSelector:
-        zone: ap-south-1b
+        zone: ap-south-1a
       volumes:
         - name: vpro-db-data
           # This AWS EBS volume must already exist.
