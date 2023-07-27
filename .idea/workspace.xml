@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c79e92e7-a1bb-4fd0-a6e5-60e24bd68bb9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app-secret.yaml" afterDir="false" />
+    <list default="true" id="c79e92e7-a1bb-4fd0-a6e5-60e24bd68bb9" name="Changes" comment="secrte">
+      <change afterPath="$PROJECT_DIR$/vprodbdep.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +28,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TF_FMT": "false",
     "last_opened_file_path": "E:/k8-manifest-file",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
@@ -40,6 +42,14 @@
       <option name="presentableId" value="Default" />
       <updated>1690471510565</updated>
     </task>
+    <task id="LOCAL-00001" summary="secrte">
+      <created>1690473079427</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690473079427</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -52,5 +62,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="secrte" />
+    <option name="LAST_COMMIT_MESSAGE" value="secrte" />
   </component>
 </project>
